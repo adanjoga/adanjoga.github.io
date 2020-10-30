@@ -5,12 +5,43 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Adan Jose-Garcia</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020 Adan Jose-Garcia</copyright><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Adan Jose-Garcia</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>CVI Toolbox</title>
+      <link>/project/cvitoolbox-project/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/project/cvitoolbox-project/</guid>
+      <description>&lt;p&gt;A toolbox in matlab of cluster validity indices for determining the number of clusters on data clustering problems. &lt;code&gt;The manuscript presenting this toolbox is under review&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-view Data Repository</title>
+      <link>/project/mvcrepository-project/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mvcrepository-project/</guid>
+      <description>&lt;p&gt;A repository of multi-view data clustering approaches using evolutionary algorithms.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List of publications&lt;/li&gt;
+&lt;li&gt;List of datasets&lt;/li&gt;
+&lt;li&gt;Implementation of algorithms&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>C3-IoC Project</title>
+      <link>/project/c3ioc-project/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/c3ioc-project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-objective Optimization | Adan Jose-Garcia</title>
+    <link>/tag/multi-objective-optimization/</link>
+      <atom:link href="/tag/multi-objective-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-objective Optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020 Adan Jose-Garcia</copyright><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Multi-objective Optimization</title>
+      <link>/tag/multi-objective-optimization/</link>
+    </image>
+    
+    <item>
+      <title>Multi-view Data Repository</title>
+      <link>/project/mvcrepository-project/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/mvcrepository-project/</guid>
+      <description>&lt;p&gt;A repository of multi-view data clustering approaches using evolutionary algorithms.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;List of publications&lt;/li&gt;
+&lt;li&gt;List of datasets&lt;/li&gt;
+&lt;li&gt;Implementation of algorithms&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
