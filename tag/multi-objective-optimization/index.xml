@@ -5,12 +5,39 @@
     <link>/tag/multi-objective-optimization/</link>
       <atom:link href="/tag/multi-objective-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-objective Optimization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020 Adan Jose-Garcia</copyright><lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020 Adan Jose-Garcia</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Multi-objective Optimization</title>
       <link>/tag/multi-objective-optimization/</link>
     </image>
+    
+    <item>
+      <title>Automatic clustering algorithms: a systematic review and bibliometric analysis of relevant literature</title>
+      <link>/publication/journal-nca2020/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-nca2020/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>Multi-view Data Repository</title>
@@ -23,6 +50,60 @@
 &lt;li&gt;List of datasets&lt;/li&gt;
 &lt;li&gt;Implementation of algorithms&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Many-view clustering: an illustration using multiple dissimilarity measures</title>
+      <link>/publication/conf_gecco2019/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conf_gecco2019/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic clustering using nature-inspired metaheuristics: A survey</title>
+      <link>/publication/journal-asoc2016/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-asoc2016/</guid>
+      <description>&lt;!---
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     

@@ -38,8 +38,48 @@
   </url>
   
   <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/absalom-e.-ezugwu/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/adan-jose-garcia/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-nca2020/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/evolutionary-algorithms/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/multi-objective-optimization/</loc>
-    <lastmod>2020-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,58 +98,43 @@
   </url>
   
   <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/adan-jose-garcia/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/tag/dissimilarity-measures/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/author/julia-handl/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <loc>/publication/conf_gecco2019/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article1/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/clustering-article/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <loc>/author/mario-garza-fabre/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/wilfrido-gomez-flores/</loc>
-    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conf_mcpr2017/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-asoc2016/</loc>
+    <lastmod>2016-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -118,7 +143,7 @@
   </url>
   
   <url>
-    <loc>/publication/journal-article2/</loc>
+    <loc>/publication/journal-exsy2015/</loc>
     <lastmod>2015-06-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,18 +153,8 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>/publication/conf_cec2012/</loc>
+    <lastmod>2012-09-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -147,11 +162,7 @@
   </url>
   
   <url>
-    <loc>/author/julia-handl/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/mario-garza-fabre/</loc>
+    <loc>/author/et-al./</loc>
   </url>
   
   <url>
@@ -160,10 +171,6 @@
   
   <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/wilfrido-gomez-flores/</loc>
   </url>
   
 </urlset>
