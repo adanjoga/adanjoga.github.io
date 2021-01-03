@@ -5,7 +5,7 @@
     <link>/tag/dissimilarity-measures/</link>
       <atom:link href="/tag/dissimilarity-measures/index.xml" rel="self" type="application/rss+xml" />
     <description>Dissimilarity Measures</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
       <title>Dissimilarity Measures</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Many-view clustering: an illustration using multiple dissimilarity measures</title>
-      <link>/publication/conf_gecco2019/</link>
+      <link>/publication/paper_gecco2019/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conf_gecco2019/</guid>
+      <guid>/publication/paper_gecco2019/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

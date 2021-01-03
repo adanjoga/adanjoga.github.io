@@ -5,7 +5,7 @@
     <link>/tag/multi-objective-optimization/</link>
       <atom:link href="/tag/multi-objective-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Multi-objective Optimization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2020 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
       <title>Multi-objective Optimization</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Automatic clustering algorithms: a systematic review and bibliometric analysis of relevant literature</title>
-      <link>/publication/journal-nca2020/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-nca2020/</guid>
+      <link>/publication/article_nca2020/</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/article_nca2020/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -55,9 +55,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Many-view clustering: an illustration using multiple dissimilarity measures</title>
-      <link>/publication/conf_gecco2019/</link>
+      <link>/publication/paper_gecco2019/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conf_gecco2019/</guid>
+      <guid>/publication/paper_gecco2019/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -82,9 +82,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Automatic clustering using nature-inspired metaheuristics: A survey</title>
-      <link>/publication/journal-asoc2016/</link>
+      <link>/publication/article_asoc2016/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-asoc2016/</guid>
+      <guid>/publication/article_asoc2016/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
