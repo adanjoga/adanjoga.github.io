@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Adan Jose-Garcia</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adanjoga.github.io/post/</link>
+      <atom:link href="https://adanjoga.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 &amp;#8729; Adan Jose-Garcia</copyright>
     <image>
-      <url>/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
+      <url>https://adanjoga.github.io/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://adanjoga.github.io/post/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolutionary Optimization | Adan Jose-Garcia</title>
-    <link>/tag/evolutionary-optimization/</link>
-      <atom:link href="/tag/evolutionary-optimization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adanjoga.github.io/tag/evolutionary-optimization/</link>
+      <atom:link href="https://adanjoga.github.io/tag/evolutionary-optimization/index.xml" rel="self" type="application/rss+xml" />
     <description>Evolutionary Optimization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
+      <url>https://adanjoga.github.io/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
       <title>Evolutionary Optimization</title>
-      <link>/tag/evolutionary-optimization/</link>
+      <link>https://adanjoga.github.io/tag/evolutionary-optimization/</link>
     </image>
     
     <item>
       <title>CVI Toolbox</title>
-      <link>/project/cvitoolbox-project/</link>
+      <link>https://adanjoga.github.io/project/cvitoolbox-project/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/cvitoolbox-project/</guid>
+      <guid>https://adanjoga.github.io/project/cvitoolbox-project/</guid>
       <description>&lt;p&gt;A toolbox in matlab of cluster validity indices for determining the number of clusters on data clustering problems. &lt;code&gt;The manuscript presenting this toolbox is under review&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>

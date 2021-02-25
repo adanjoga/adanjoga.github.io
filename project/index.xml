@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Adan Jose-Garcia</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adanjoga.github.io/project/</link>
+      <atom:link href="https://adanjoga.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
+      <url>https://adanjoga.github.io/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://adanjoga.github.io/project/</link>
     </image>
     
     <item>
       <title>CVI Toolbox</title>
-      <link>/project/cvitoolbox-project/</link>
+      <link>https://adanjoga.github.io/project/cvitoolbox-project/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/cvitoolbox-project/</guid>
+      <guid>https://adanjoga.github.io/project/cvitoolbox-project/</guid>
       <description>&lt;p&gt;A toolbox in matlab of cluster validity indices for determining the number of clusters on data clustering problems. &lt;code&gt;The manuscript presenting this toolbox is under review&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multi-view Data Repository</title>
-      <link>/project/mvcrepository-project/</link>
+      <link>https://adanjoga.github.io/project/mvcrepository-project/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/mvcrepository-project/</guid>
+      <guid>https://adanjoga.github.io/project/mvcrepository-project/</guid>
       <description>&lt;p&gt;A repository of multi-view data clustering approaches using evolutionary algorithms.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;List of publications&lt;/li&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>C3-IoC Project</title>
-      <link>/project/c3ioc-project/</link>
+      <link>https://adanjoga.github.io/project/c3ioc-project/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/project/c3ioc-project/</guid>
+      <guid>https://adanjoga.github.io/project/c3ioc-project/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adan Jose-Garcia</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adanjoga.github.io/</link>
+      <atom:link href="https://adanjoga.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Adan Jose-Garcia</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
+      <url>https://adanjoga.github.io/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
       <title>Adan Jose-Garcia</title>
-      <link>/</link>
+      <link>https://adanjoga.github.io/</link>
     </image>
     
     <item>
       <title>CVI Toolbox</title>
-      <link>/project/cvitoolbox-project/</link>
+      <link>https://adanjoga.github.io/project/cvitoolbox-project/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/project/cvitoolbox-project/</guid>
+      <guid>https://adanjoga.github.io/project/cvitoolbox-project/</guid>
       <description>&lt;p&gt;A toolbox in matlab of cluster validity indices for determining the number of clusters on data clustering problems. &lt;code&gt;The manuscript presenting this toolbox is under review&lt;/code&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Automatic clustering algorithms: a systematic review and bibliometric analysis of relevant literature</title>
-      <link>/publication/article_nca2020/</link>
+      <link>https://adanjoga.github.io/publication/article_nca2020/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/article_nca2020/</guid>
+      <guid>https://adanjoga.github.io/publication/article_nca2020/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -50,9 +50,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Study and Research on Detection of Fiber Defects using Keypoints and Deep Learning</title>
-      <link>/publication/article_ijprai2020/</link>
+      <link>https://adanjoga.github.io/publication/article_ijprai2020/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/article_ijprai2020/</guid>
+      <guid>https://adanjoga.github.io/publication/article_ijprai2020/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -77,9 +77,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Multi-view Data Repository</title>
-      <link>/project/mvcrepository-project/</link>
+      <link>https://adanjoga.github.io/project/mvcrepository-project/</link>
       <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/mvcrepository-project/</guid>
+      <guid>https://adanjoga.github.io/project/mvcrepository-project/</guid>
       <description>&lt;p&gt;A repository of multi-view data clustering approaches using evolutionary algorithms.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;List of publications&lt;/li&gt;
@@ -91,17 +91,17 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>C3-IoC Project</title>
-      <link>/project/c3ioc-project/</link>
+      <link>https://adanjoga.github.io/project/c3ioc-project/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/project/c3ioc-project/</guid>
+      <guid>https://adanjoga.github.io/project/c3ioc-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Many-view clustering: an illustration using multiple dissimilarity measures</title>
-      <link>/publication/paper_gecco2019/</link>
+      <link>https://adanjoga.github.io/publication/paper_gecco2019/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/paper_gecco2019/</guid>
+      <guid>https://adanjoga.github.io/publication/paper_gecco2019/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -126,9 +126,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Evolutionary Clustering Using Multi-prototype Representation and Connectivity Criterion</title>
-      <link>/publication/paper_mcpr2017/</link>
+      <link>https://adanjoga.github.io/publication/paper_mcpr2017/</link>
       <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/paper_mcpr2017/</guid>
+      <guid>https://adanjoga.github.io/publication/paper_mcpr2017/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -153,9 +153,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Automatic clustering using nature-inspired metaheuristics: A survey</title>
-      <link>/publication/article_asoc2016/</link>
+      <link>https://adanjoga.github.io/publication/article_asoc2016/</link>
       <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/article_asoc2016/</guid>
+      <guid>https://adanjoga.github.io/publication/article_asoc2016/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -180,9 +180,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Rule‐based approach for topic maps learning from relational databases</title>
-      <link>/publication/article_exsy2015/</link>
+      <link>https://adanjoga.github.io/publication/article_exsy2015/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/article_exsy2015/</guid>
+      <guid>https://adanjoga.github.io/publication/article_exsy2015/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -207,9 +207,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Building topic maps from relational databases</title>
-      <link>/publication/paper_cec2012/</link>
+      <link>https://adanjoga.github.io/publication/paper_cec2012/</link>
       <pubDate>Wed, 26 Sep 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/paper_cec2012/</guid>
+      <guid>https://adanjoga.github.io/publication/paper_cec2012/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
