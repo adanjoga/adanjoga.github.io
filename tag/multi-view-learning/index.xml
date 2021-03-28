@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dirk Siegmund | Adan Jose-Garcia</title>
-    <link>https://adanjoga.github.io/author/dirk-siegmund/</link>
-      <atom:link href="https://adanjoga.github.io/author/dirk-siegmund/index.xml" rel="self" type="application/rss+xml" />
-    <description>Dirk Siegmund</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <title>Multi-view Learning | Adan Jose-Garcia</title>
+    <link>https://adanjoga.github.io/tag/multi-view-learning/</link>
+      <atom:link href="https://adanjoga.github.io/tag/multi-view-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-view Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2021 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adanjoga.github.io/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
-      <title>Dirk Siegmund</title>
-      <link>https://adanjoga.github.io/author/dirk-siegmund/</link>
+      <title>Multi-view Learning</title>
+      <link>https://adanjoga.github.io/tag/multi-view-learning/</link>
     </image>
     
     <item>
-      <title>Detection of fiber defects using keypoints and deep learning</title>
-      <link>https://adanjoga.github.io/publication/article_ijprai2020/</link>
-      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://adanjoga.github.io/publication/article_ijprai2020/</guid>
+      <title>On the interaction between distance functions and clustering criteria in multi-objective clustering</title>
+      <link>https://adanjoga.github.io/publication/paper_emo2021/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://adanjoga.github.io/publication/paper_emo2021/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
