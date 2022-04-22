@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>CVI Toolbox</title>
+      <title>CVIK Toolbox</title>
       <link>https://adanjoga.github.io/project/cvitoolbox-project/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://adanjoga.github.io/project/cvitoolbox-project/</guid>
@@ -40,6 +40,14 @@
       <link>https://adanjoga.github.io/project/c3ioc-project/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://adanjoga.github.io/project/c3ioc-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evoclustering Project</title>
+      <link>https://adanjoga.github.io/project/evoclustering-project/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://adanjoga.github.io/project/evoclustering-project/</guid>
       <description></description>
     </item>
     
