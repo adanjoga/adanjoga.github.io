@@ -171,6 +171,27 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>COVID-19 en México 🦠🇲🇽</title>
+      <link>https://adanjoga.github.io/project/covid19-project/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://adanjoga.github.io/project/covid19-project/</guid>
+      <description>&lt;p&gt;Mapas interactivos de la evolución del brote epidémico COVID-19 en México por entidades.&lt;/p&gt;
+&lt;h2 id=&#34;1-mapa-interactivo&#34;&gt;1. Mapa interactivo&lt;/h2&gt;
+&lt;iframe width=&#34;900&#34; height=&#34;1420&#34; src=&#34;https://datastudio.google.com/embed/reporting/c2b622f7-ccb1-4af7-858b-0cdc9745f97f/page/zGEMB&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h2 id=&#34;2-mapa-de-dispersión&#34;&gt;2. Mapa de dispersión&lt;/h2&gt;
+&lt;div class=&#34;flourish-embed flourish-map&#34; data-src=&#34;visualisation/1971849&#34; data-url=&#34;https://flo.uri.sh/visualisation/1971849/embed&#34; data-width=&#34;105%&#34;&gt;&lt;script src=&#34;https://public.flourish.studio/resources/embed.js&#34;&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Créditos&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mapa interactivo y visualización de datos (Dr. 
+&lt;a href=&#34;https://www.tamps.cinvestav.mx/~ajose/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adán José-García&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mapa de dispersiones  (Dr. 
+&lt;a href=&#34;https://thes0lver.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rafael Pérez-Torres&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>C3-IoC Project</title>
       <link>https://adanjoga.github.io/project/c3ioc-project/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
