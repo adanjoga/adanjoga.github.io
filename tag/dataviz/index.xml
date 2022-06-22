@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dataviz | Adan Jose-Garcia</title>
+    <link>https://adanjoga.github.io/tag/dataviz/</link>
+      <atom:link href="https://adanjoga.github.io/tag/dataviz/index.xml" rel="self" type="application/rss+xml" />
+    <description>dataviz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2022 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adanjoga.github.io/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
+      <title>dataviz</title>
+      <link>https://adanjoga.github.io/tag/dataviz/</link>
+    </image>
+    
+    <item>
+      <title>BicViz 🦠</title>
+      <link>https://adanjoga.github.io/project/bicviz/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://adanjoga.github.io/project/bicviz/</guid>
+      <description>&lt;iframe width=&#34;900&#34; height=&#34;1420&#34; src=&#34;https://datastudio.google.com/embed/reporting/0cc823f9-70e6-43e6-b734-a852ff9af51c/page/nxwvC&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
