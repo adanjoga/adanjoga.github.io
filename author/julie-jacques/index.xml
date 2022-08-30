@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Multi-view Learning | Adan Jose-Garcia</title>
-    <link>https://adanjoga.github.io/tag/multi-view-learning/</link>
-      <atom:link href="https://adanjoga.github.io/tag/multi-view-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Multi-view Learning</description>
+    <title>Julie JACQUES | Adan Jose-Garcia</title>
+    <link>https://adanjoga.github.io/author/julie-jacques/</link>
+      <atom:link href="https://adanjoga.github.io/author/julie-jacques/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julie JACQUES</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2022 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adanjoga.github.io/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
-      <title>Multi-view Learning</title>
-      <link>https://adanjoga.github.io/tag/multi-view-learning/</link>
+      <title>Julie JACQUES</title>
+      <link>https://adanjoga.github.io/author/julie-jacques/</link>
     </image>
     
     <item>
@@ -17,33 +17,6 @@
       <link>https://adanjoga.github.io/publication/paper_ppsn2022/</link>
       <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://adanjoga.github.io/publication/paper_ppsn2022/</guid>
-      <description>&lt;!---
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the interaction between distance functions and clustering criteria in multi-objective clustering</title>
-      <link>https://adanjoga.github.io/publication/paper_emo2021/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://adanjoga.github.io/publication/paper_emo2021/</guid>
       <description>&lt;!---
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
