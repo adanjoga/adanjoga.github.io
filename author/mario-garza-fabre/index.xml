@@ -5,7 +5,7 @@
     <link>https://adanjoga.github.io/author/mario-garza-fabre/</link>
       <atom:link href="https://adanjoga.github.io/author/mario-garza-fabre/index.xml" rel="self" type="application/rss+xml" />
     <description>Mario GARZA-FABRE</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2022 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018-2023 &amp;#8729; Adan Jose-Garcia</copyright><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adanjoga.github.io/images/icon_hu39b86660bb435cc93b9e8c058642657f_11781_512x512_fill_lanczos_center_2.png</url>
       <title>Mario GARZA-FABRE</title>
@@ -40,7 +40,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>An evolutionary many-objective approach to multiview clustering using feature and relational data</title>
+      <title>An Evolutionary Many-objective Approach to Multiview Clustering Using Feature and Relational data</title>
       <link>https://adanjoga.github.io/publication/article_asoc2021/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://adanjoga.github.io/publication/article_asoc2021/</guid>
@@ -67,7 +67,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
-      <title>Many-view clustering: an illustration using multiple dissimilarity measures</title>
+      <title>Many-view Clustering: An Illustration Using Multiple Dissimilarity Measures</title>
       <link>https://adanjoga.github.io/publication/paper_gecco2019/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://adanjoga.github.io/publication/paper_gecco2019/</guid>
